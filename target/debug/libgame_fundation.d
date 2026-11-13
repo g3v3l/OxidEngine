@@ -1,0 +1,1 @@
+C:\Users\new\OxidEngine\target\debug\libgame_fundation.rlib: C:\Users\new\OxidEngine\game_fundation\src\ecs\entity.rs C:\Users\new\OxidEngine\game_fundation\src\ecs\mod.rs C:\Users\new\OxidEngine\game_fundation\src\ecs\world.rs C:\Users\new\OxidEngine\game_fundation\src\lib.rs
